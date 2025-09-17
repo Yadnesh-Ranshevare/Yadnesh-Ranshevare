@@ -3,6 +3,7 @@
 Welcome to my coding notes repository!  
 Here you’ll find my notes on different programming topics.
 
+> ⚠️ Note: This is not my main GitHub account. It is only used for uploading and maintaining my notes.
 ---
 
 ## 🚀 Available Notes
@@ -19,4 +20,4 @@ Here you’ll find my notes on different programming topics.
 
 
 
-✍️ *Maintained by [Yadnesh Ranshevare](https://github.com/Yadnesh-Ranshevare)*
+✍️ *Maintained by [Tiny_Gaint](https://github.com/Yranshevare)*
