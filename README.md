@@ -1,16 +1,22 @@
-## Hi there 👋
+# 📘 My Coding Notes
 
-<!--
-**Yadnesh-Ranshevare/Yadnesh-Ranshevare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my coding notes repository!  
+Here you’ll find my notes on different programming topics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Available Notes
+
+- [Next.Js Notes](https://github.com/Yadnesh-Ranshevare/Next.js.git)
+- [express backend and JS Notes](https://github.com/Yadnesh-Ranshevare/express-backend.git)
+- [React Notes](https://github.com/Yadnesh-Ranshevare/learn-react.git)
+- [Python Notes](https://github.com/Yadnesh-Ranshevare/python_notes.git)
+- [Redis Notes](https://github.com/Yadnesh-Ranshevare/Redis.git)
+- [DSA Notes](https://github.com/Yadnesh-Ranshevare/DSA.git)
+- [Jest Notes](https://github.com/Yadnesh-Ranshevare/Jest.git)
+
+---
+
+
+
+✍️ *Maintained by [Yadnesh Ranshevare](https://github.com/Yadnesh-Ranshevare)*
