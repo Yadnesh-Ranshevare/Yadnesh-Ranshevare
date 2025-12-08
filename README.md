@@ -15,6 +15,7 @@ Here you’ll find my notes on different programming topics.
 - [Redis Notes](https://github.com/Yadnesh-Ranshevare/Redis.git)
 - [DSA Notes](https://github.com/Yadnesh-Ranshevare/DSA.git)
 - [Jest Notes](https://github.com/Yadnesh-Ranshevare/Jest.git)
+- [LLM Notes](https://github.com/Yadnesh-Ranshevare/llm-notes.git)
 
 ---
 
